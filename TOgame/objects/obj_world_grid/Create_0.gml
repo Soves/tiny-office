@@ -11,6 +11,9 @@ chunk_size = 8;
 mx = 0;
 my = 0;
 
+//temp
+select = 1;
+
 //Screen position
 globalX = 0;
 globalY = 0;
