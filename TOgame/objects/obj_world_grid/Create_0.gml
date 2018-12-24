@@ -28,5 +28,7 @@ global.isoY = TILEH*4;
 
 //Grid initialize
 chunk = ds_grid_create(chunk_size,chunk_size);
+chunk1 = ds_grid_create(chunk_size,chunk_size);
 
 ds_grid_set_region(chunk,0,0,chunk_size,chunk_size,0);
+ds_grid_set_region(chunk1,0,0,chunk_size,chunk_size,0);

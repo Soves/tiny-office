@@ -36,55 +36,11 @@
                     "LayerId": "41d791dc-1116-4a0c-9dab-8d33102e50b2"
                 }
             ]
-        },
-        {
-            "id": "d67be80d-c258-436a-8a50-cc98a2706e64",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "78d7449b-1c50-4a13-8453-3e8fb1ac8c47",
-            "compositeImage": {
-                "id": "37c75862-09e7-406c-a97d-fe6a2170ceaa",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "d67be80d-c258-436a-8a50-cc98a2706e64",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "72cda2a6-4e48-425f-9661-03cdaff7a989",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "d67be80d-c258-436a-8a50-cc98a2706e64",
-                    "LayerId": "41d791dc-1116-4a0c-9dab-8d33102e50b2"
-                }
-            ]
-        },
-        {
-            "id": "c6a191b5-9c84-4ee5-ad28-4c2c47a85c68",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "78d7449b-1c50-4a13-8453-3e8fb1ac8c47",
-            "compositeImage": {
-                "id": "1e1d1a9a-20ee-4fa1-9244-c1cdc08b2950",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "c6a191b5-9c84-4ee5-ad28-4c2c47a85c68",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "36e455cc-ea9d-4b48-9d06-f18c13331750",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "c6a191b5-9c84-4ee5-ad28-4c2c47a85c68",
-                    "LayerId": "41d791dc-1116-4a0c-9dab-8d33102e50b2"
-                }
-            ]
         }
     ],
     "gridX": 0,
     "gridY": 0,
-    "height": 128,
+    "height": 130,
     "layers": [
         {
             "id": "41d791dc-1116-4a0c-9dab-8d33102e50b2",
@@ -110,5 +66,5 @@
     "type": 0,
     "width": 128,
     "xorig": 0,
-    "yorig": 64
+    "yorig": 65
 }

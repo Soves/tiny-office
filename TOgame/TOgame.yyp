@@ -159,11 +159,27 @@
             }
         },
         {
+            "Key": "70c02e0c-2102-47d0-80ae-aa946183de45",
+            "Value": {
+                "id": "22e29fdd-4b67-499e-8958-728644e24043",
+                "resourcePath": "sprites\\spr_occupied\\spr_occupied.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "78d7449b-1c50-4a13-8453-3e8fb1ac8c47",
             "Value": {
                 "id": "1c2a1cb1-374e-4731-885d-f4f612244dc7",
                 "resourcePath": "sprites\\spr_test\\spr_test.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
+            "Value": {
+                "id": "2f8ce7bf-c241-4b4a-98c0-6e1745ffa078",
+                "resourcePath": "options\\ios\\options_ios.yy",
+                "resourceType": "GMiOSOptions"
             }
         },
         {
@@ -180,6 +196,14 @@
                 "id": "e897dec7-7e1a-41ce-87c4-98ed0070c13c",
                 "resourcePath": "views\\8cfa13b0-01d7-4176-a8ca-c25a8f5afbf0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
+            "Value": {
+                "id": "7768901d-5e2e-4a0d-b680-982d0e734d19",
+                "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
+                "resourceType": "GMAmazonFireOptions"
             }
         },
         {
@@ -255,11 +279,27 @@
             }
         },
         {
+            "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
+            "Value": {
+                "id": "1b5363c9-6176-44cf-a95b-99890ce39e39",
+                "resourcePath": "options\\android\\options_android.yy",
+                "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
             "Key": "e5e30171-ef52-4d00-a7a2-26ef4a4f4b9b",
             "Value": {
                 "id": "9373b11b-9f76-4c93-a2dc-dfce63370b5c",
                 "resourcePath": "views\\e5e30171-ef52-4d00-a7a2-26ef4a4f4b9b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e7552efe-019d-40ec-84f0-8ef50b18abb1",
+            "Value": {
+                "id": "8d25e303-51e2-4b37-9de6-aa5428fb7320",
+                "resourcePath": "sprites\\spr_test1\\spr_test1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
